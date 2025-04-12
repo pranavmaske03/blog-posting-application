@@ -7,7 +7,6 @@ A blog posting website built using React. Users can create, read, update, and de
 - Create, read, update, and delete (CRUD) blog posts
 - TinyMCE rich text editor for creating and editing posts
 - User-friendly interface
-- Responsive design (works on both mobile and desktop)
 - State management using Redux and React-Redux
 
 ## Tech Stack
